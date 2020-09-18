@@ -1,2 +1,2 @@
 FROM nginx:1-alpine
-ADD index.html /var/www/html/index.html
+ADD index.html /usr/share/nginx/html/index.html
